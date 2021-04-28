@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3415101525",
+    "project_id": "messageboxing-7c3bd",
+    "storage_bucket": "messageboxing-7c3bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3415101525:android:5683061270ca01471944dc",
+        "android_client_info": {
+          "package_name": "com.example.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3415101525-cermh2j7at92t5s7c0mrk7m1pkrpeabu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvdAAPYV8z94er956IsygXoy8PV0oMc-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3415101525-cermh2j7at92t5s7c0mrk7m1pkrpeabu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
